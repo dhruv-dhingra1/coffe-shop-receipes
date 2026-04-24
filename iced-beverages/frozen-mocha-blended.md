@@ -1,4 +1,4 @@
-# Mocha Frozen Blended Coffee​
+# Mocha Frozen Blended to-be-merged-into-main Coffee​
 
 ## Description: The Mocha Frozen Blended Coffee, where coffee, milk, ice and chocolaty goodness all come together for a delicious cold drink
 
